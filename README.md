@@ -5,9 +5,11 @@
 * Excel
 * PostgreSQL 
 * ONLINE CSV to SQL converter tool- [converter](https://www.convertcsv.com/csv-to-sql.htm)
+* [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
-[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
+# Netflix Dashboard 
+# <p align="center">![Netflix Dashboard (Tableau)](https://github.com/user-attachments/assets/dbfd07d8-fc11-4104-ac39-85dd3b2b7785)</p>
+
 
 - **🧩 Business Problem:** Netflix aims to extract meaningful insights from their vast collection of data on shows and movies to better serve their subscribers. However, the challenge lies in the sheer volume of data—with over 82,000 rows across multiple datasets, they are struggling to efficiently analyze and draw useful conclusions. As such, Netflix needs a robust, scalable analytics solution to handle large data volumes and reveal valuable trends, patterns, and viewer behavior insights.
 - **🛠️ Solution Approach** To address this, I used PostgreSQL to analyze and extract meaningful insights from Netflix’s dataset. The analysis involved writing SQL queries to answer specific business questions across content performance, genres, cast involvement, and production trends.
